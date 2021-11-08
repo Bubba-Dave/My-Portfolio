@@ -1,4 +1,4 @@
-#1. [ Description. ](#desc)
+1. [ Description. ](#desc)
 2. [ See the full portfolio. ](#web-address)
 3. [ How to navigate the page. ](#usage)
 4. [ Contributing. ](#contributing)
