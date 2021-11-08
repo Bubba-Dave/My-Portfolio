@@ -1,4 +1,4 @@
-## 1. Description
+## Description
 
 
 ### David's portfolio image
@@ -10,7 +10,7 @@ Here is an image of David's Portfolio:
 
 
 
-## 2. See the full Portfolio!
+## See the full Portfolio!
 
 ### Copy and Paste the link below into prefered browser to see the full portfolio! 
 
@@ -18,7 +18,7 @@ Here is an image of David's Portfolio:
 https://bubba-dave.github.io/my-portfolio/
 ```
 
-## 3. Moving around the page
+## Moving around the page
 
 
 ### Use the top right navigation menu to visit the different sections of the portfolio
@@ -34,5 +34,5 @@ Navigation menu image:
 Use the navigation links to move to the desired section of the portfolio.
 
 
-## 4. Built By
+## Built By
 David Hart
