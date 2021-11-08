@@ -11,7 +11,7 @@
 ### David's portfolio image
 
 
-Portfolio:
+Here is an image of David's Portfolio:
 
 ![Top-Page-Area](./assets/images/portfolio1.PNG?raw=true "Top-Page-Area")
 
@@ -19,7 +19,7 @@ Portfolio:
 <a name="web-address"></a>
 ## 2. See the full Portfolio!
 
-### Click the link below to see the whole page with all functionalities. 
+### Click the link below to see the full portfolio! 
 
 ```html
 https://bubba-dave.github.io/my-portfolio/
