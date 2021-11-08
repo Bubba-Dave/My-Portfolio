@@ -12,7 +12,7 @@ Here is an image of David's Portfolio:
 
 ## See the full Portfolio!
 
-### Copy and Paste the link below into prefered browser to see the full portfolio! 
+### Copy and Paste the link below into preferred browser to see the full portfolio! 
 
 ```html
 https://bubba-dave.github.io/my-portfolio/
