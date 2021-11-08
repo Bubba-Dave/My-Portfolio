@@ -13,7 +13,7 @@
 
 Portfolio:
 
-![Top-Page-Area](./assets/images/portfolio1.png?raw=true "Top-Page-Area")
+![Top-Page-Area](./assets/images/portfolio1.PNG?raw=true "Top-Page-Area")
 
 
 <a name="web-address"></a>
@@ -36,7 +36,7 @@ Navigation menu location:
 
 Navigation menu image:
 
-![nav-menu](./assets/images/navmenu.png?raw=true "Navigational Menu")
+![nav-menu](./assets/images/navmenu.PNG?raw=true "Navigational Menu")
 
 
 <a name="Bulit By"></a>
