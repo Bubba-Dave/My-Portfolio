@@ -38,6 +38,7 @@ Navigation menu image:
 
 ![nav-menu](./assets/images/navmenu.PNG?raw=true "Navigational Menu")
 
+Use the navigation links to move to the desired section of the portfolio.
 
 <a name="Bulit By"></a>
 ## 4. Contributors 
