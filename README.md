@@ -1,7 +1,7 @@
 1. [ Description. ](#desc)
-2. [ See the full portfolio. ](#web-address)
-3. [ How to navigate the page. ](#usage)
-4. [ Contributing. ](#contributing)
+2. [ See the full portfolio ](#web-address)
+3. [ How to navigate the page ](#usage)
+4. [ Built By ] (#Built By)
 
 
 <a name="desc"></a>
@@ -40,6 +40,6 @@ Navigation menu image:
 
 Use the navigation links to move to the desired section of the portfolio.
 
-<a name="Bulit By"></a>
-## 4. Contributors 
+<a name="Built By"></a>
+## 4. Built By
 David Hart
