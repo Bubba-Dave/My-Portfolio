@@ -19,7 +19,7 @@ Here is an image of David's Portfolio:
 <a name="web-address"></a>
 ## 2. See the full Portfolio!
 
-### Click the link below to see the full portfolio! 
+### Copy and Paste the link below into prefered browser to see the full portfolio! 
 
 ```html
 https://bubba-dave.github.io/my-portfolio/
